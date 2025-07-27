@@ -29,7 +29,7 @@ Welcome to **NoteNest** — a modern, minimalist, and lightning-fast notes app b
 
 ## 📸 Sneak Peek
 
-![NoteNest Screenshot](images/Readme)
+![NoteNest Screenshot](images/Readme.png)
 
 ---
 
